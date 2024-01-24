@@ -1,4 +1,4 @@
 <h1>
   kaushal raj Trital 
 </h1>
-![Image of Yaktocat](file:///C:/Users/user/Downloads/Snapchat-1840068599.jpg)
+![Image of Yaktocat](https://pix.fr/_nuxt/image/4709e3.svg)
